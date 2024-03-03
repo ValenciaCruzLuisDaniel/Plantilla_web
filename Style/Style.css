@@ -1,0 +1,63 @@
+.logoColor{
+    width: 100px;
+    height: 100px;
+    border-radius: 25%;
+    background-color: rgba(233, 73, 193, 0.853);
+    padding-left: 3rem;
+}
+
+.logo {
+
+ padding-top: 1.5rem;
+    
+}
+
+.contenedorNavbar {
+
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1.5rem;
+}
+
+.nav-item{
+
+    padding-left: 4rem;
+}
+
+.btn {
+
+    font-size: 1.3rem;
+}
+
+
+.titulo{
+
+    margin-top: 2rem;
+    font-size: 3.5rem;
+    color: rgb(132, 33, 132);
+}
+
+.subtitulo{
+
+    margin-bottom: 2rem;
+}
+
+.btnRegistro{
+
+    margin-top: 3rem;
+   background-color: rgba(233, 73, 193, 0.853);
+   color: aliceblue;
+}
+
+.btnRegistro:hover{
+    background-color:rgb(233, 73, 193) ;
+}
+
+
+
+
+.textInicial{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.3rem;
+}
