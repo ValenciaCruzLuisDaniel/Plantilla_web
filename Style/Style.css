@@ -61,3 +61,61 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.3rem;
 }
+
+
+
+.text-acercaDe{
+
+    padding-left: 2rem;
+}
+
+.rowAcd h3 {
+
+    padding-left: 3rem;
+    opacity: 80%;
+    color: aliceblue;
+    padding-top: 4rem;
+}
+
+.rowAcd h1 {
+
+    font-weight: bold;
+    color: whitesmoke;
+    padding-top: 2rem;
+    padding-left: 2rem;
+}
+
+.rowAcd p {
+    color: white;
+    padding-top: 3rem;
+  
+    padding: 3rem;
+}
+
+.acerca-de{
+background-color: rgb(154, 57, 147);
+ overflow: hidden;
+ box-sizing: border-box;
+ height: 100%;
+ width: 100%;
+}
+
+.acercade-img img{
+
+
+    width: 80%;
+    height: 80%;
+}
+.acercade-img{
+
+}
+
+.segundoSVG{
+
+
+}
+
+.segundoSVG img{
+
+
+}
